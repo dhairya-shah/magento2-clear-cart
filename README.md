@@ -2,7 +2,7 @@
 
 # Install Via Composer
 Set respository path in composer config  
-`composer config repositories.ds-module-clearcart git git@github.com:dhairya-mage-dev/magento2-clear-cart.git`  
+`composer config repositories.ds-clearcart git git@github.com:dhairya-mage-dev/magento2-clear-cart.git`  
 `composer require dhairya-mage-dev/clearcart:*`
 
 # Developed by Dhairya Shah
