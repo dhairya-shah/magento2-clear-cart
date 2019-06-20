@@ -1,4 +1,4 @@
-# magento 2 clear cart module
+# Magento 2 clear cart module
 
 Install Via Composer
 
